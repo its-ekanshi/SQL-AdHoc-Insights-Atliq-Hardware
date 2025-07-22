@@ -24,13 +24,6 @@ This SQL project provides **ad-hoc business insights** for **Atliq Hardware**, a
 | DAX | Advanced calculations (if used in dashboard) |
 | Excel | Data cleaning & processing |
 
-## 📂 Project Structure
-📂 **SQL_Scripts/** → SQL queries for business insights  
-📂 **PowerBI_Dashboard/** → .pbix file with visualizations  
-📂 **Reports/** → PDF & images of insights  
-📂 **Data/** → Raw & processed datasets  
-📂 **Presentation/** → Slides for project showcase  
-
 ## 📬 Connect with Me
 💼 **LinkedIn:** [www.linkedin.com/in/ekanshisaxena](https://www.linkedin.com/in/ekanshisaxena)  
 📂 **GitHub:** [github.com/its-ekanshi](https://github.com/its-ekanshi)  
