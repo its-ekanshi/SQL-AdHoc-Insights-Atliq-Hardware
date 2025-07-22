@@ -24,6 +24,5 @@ This SQL project provides **ad-hoc business insights** for **Atliq Hardware**, a
 | DAX | Advanced calculations (if used in dashboard) |
 | Excel | Data cleaning & processing |
 
-## 📬 Connect with Me
-💼 **LinkedIn:** [www.linkedin.com/in/ekanshisaxena](https://www.linkedin.com/in/ekanshisaxena)  
-📂 **GitHub:** [github.com/its-ekanshi](https://github.com/its-ekanshi)  
+## 📬 Connect with Me  
+**[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or explore more of my projects on**[GitHub](https://github.com/its-ekanshi)**.  
